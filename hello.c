@@ -6,7 +6,8 @@ int main(void)
 
 printf("Hello!\n");
 
-usleep(4000000);
+
+usleep(3000000);
 
 printf("Goodbye!\n");
 
