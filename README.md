@@ -1,1 +1,1 @@
-A C program that prints hello at a regular time interval and when done prints goodbye.
+Updated time interval to 2 minutes before goodbye message
