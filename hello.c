@@ -8,7 +8,7 @@ printf("Hello!\n");
 
 usleep(5000000);
 
-printf("Hola\n");
+printf("Goodbye!\n");
 
 return(0);
 } 

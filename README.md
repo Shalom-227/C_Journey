@@ -1,1 +1,1 @@
-This is just adding a readme file to the Hello.c program
+A C program that prints hello at a regular time interval and when done prints goodbye.
